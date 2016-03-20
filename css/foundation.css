@@ -611,7 +611,9 @@ html {
    * Remove default margin.
    */
 body {
-  margin: 0; }
+  margin: 0;
+background-image:url("../images/barclays-premier-league-logo-2014-2015.jpg");
+}
 
 /* HTML5 display definitions
      ========================================================================== */
@@ -671,7 +673,7 @@ template {
    * Remove the gray background color from active links in IE 10.
    */
 a {
-  background-color: transparent; }
+  background-color: black; }
 
 /**
    * Improve readability of focused elements when they are also in an
@@ -1285,7 +1287,7 @@ button {
     float: left; }
 
 .small-up-7 > .column, .small-up-7 > .columns {
-  width: 14.28571%;
+  width: 14.28571%;modernizr-custom.jsmodernizr-custom.js
   float: left; }
   .small-up-7 > .column:nth-of-type(1n), .small-up-7 > .columns:nth-of-type(1n) {
     clear: none; }
@@ -3409,7 +3411,7 @@ body.is-reveal-open {
     .reveal.tiny {
       width: 30%;
       max-width: 62.5rem; } }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 40em) {modernizr-custom.jsmodernizr-custom.js
     .reveal.small {
       width: 50%;
       max-width: 62.5rem; } }
