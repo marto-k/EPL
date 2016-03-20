@@ -14,8 +14,6 @@
 
 
 
-
-
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /**
    * 1. Set default font family to sans-serif.
@@ -37,3 +35,10 @@ body {
   margin: 0;
 background-image:url("../images/barclays-premier-league-logo-2014-2015.jpg");
 }
+
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+/**
+   * 1. Set default font family to sans-serif.
+   * 2. Prevent iOS and IE text size adjust after device orientation change,
+   *    without disabling user zoom.
+   */
